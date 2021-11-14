@@ -1,3 +1,3 @@
-# Single HTML-File Svelte Starter
+# Svelte Single File
 
-This is a quickly hacked-together thing to output a Svelte app into a single .html file.
+Creating single HTML file out of your Svelte App
